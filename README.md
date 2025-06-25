@@ -1,44 +1,42 @@
 # Real-Time Passenger Feedback for Public Transport Optimization
 
-Este proyecto busca optimizar el transporte público mediante el análisis en tiempo real de los comentarios y opiniones de los pasajeros. Integra procesamiento de lenguaje natural, aprendizaje por refuerzo y análisis de grafos para mejorar la experiencia del usuario y la eficiencia del sistema, utilizando el feedback de los usuarios como base para la toma de decisiones.
+This project seeks to optimize public transportation by systematically analyzing passenger feedback and comments. It integrates natural language processing (NLP), reinforcement learning (RL), and graph analysis to enhance user experience and system efficiency, utilizing user feedback as the foundation for informed decision-making.
 
-## Tabla de Contenidos
+## Table of Contents
 
-- [Descripción General](#descripción-general)
+- [Overview](#overview)
 - [Dataset](#dataset)
 - [RoBERTa](#roberta)
-- [Q-learning](#q-learning)
+- [Independet Q-learning](#independet-q-learning)
 - [GraphSAGE](#graphsage)
 
-## Descripción General
+## Overview
 
-El sistema integra modelos de clasificación de sentimientos, aprendizaje por refuerzo y análisis de grafos para procesar y aprovechar el feedback de los usuarios del transporte público. El flujo general es:
+The system integrates sentiment classification models, reinforcement learning, and graph analysis to process and leverage feedback from public transport users. The general workflow is as follows:
 
-1. Recolección de datos y comentarios de usuarios.
-2. Clasificación de los comentarios usando [RoBERTa](src/RoBERTa/) (positivo, negativo, neutral).
-3. Optimización de recompensas y políticas mediante [Q-learning](src/Q-learning/).
-4. Análisis de relaciones y patrones entre usuarios con [GraphSAGE](src/GraphSAGE/).
-
+1. Data and comment collection from users.
+2. Classification of comments utilizing [RoBERTa](src/RoBERTa/) (positive, negative, neutral).
+3. Reward and policy optimization through [Independet Q-learning](src/Q-learning/).
+4. Analysis of user relationships and patterns using [GraphSAGE](src/GraphSAGE/).
 
 ## Dataset
 
-En la carpeta [`data`](data) se encuentra el dataset utilizado, creado a partir de datos proporcionados por la **Coordinación General de Movilidad** ([CMOV](https://www.aguascalientes.gob.mx/cmov/)) y 500 encuestas recolectadas a través de [Qualtrics](https://qualtricsxm8h23qkg2c.qualtrics.com/jfe/form/SV_6JeIbhOgzTszQBU).
+The [`data`](data) directory contains the dataset employed in this project, compiled from information provided by the **Coordinación General de Movilidad** ([CMOV](https://www.aguascalientes.gob.mx/cmov/)) and 500 surveys collected via [Qualtrics](https://qualtricsxm8h23qkg2c.qualtrics.com/jfe/form/SV_6JeIbhOgzTszQBU).
 
 ## [RoBERTa](src/RoBERTa/)
 
-Modelo de clasificación de comentarios basado en [RoBERTa](src/RoBERTa/). Se procesaron aproximadamente 4000 comentarios para identificar el nivel de satisfacción de los usuarios, clasificándolos en:
+A comment classification model based on [RoBERTa](src/RoBERTa/). Approximately 4,000 comments were processed to determine user satisfaction levels, categorizing them as:
 
-- Positivo
-- Negativo
+- Positive
+- Negative
 - Neutral
 
-Esta clasificación permite conocer la percepción general de los pasajeros sobre el servicio.
+This classification provides valuable insights into the general perception of passengers regarding the service.
 
-## [Q-learning](src/Q-learning/)
+## [Independet Q-learning](src/Q-learning/)
 
-Implementación de [Q-learning](src/Q-learning/) utilizando los datos procesados por [RoBERTa](src/RoBERTa/). Se construyó una función de recompensa que mide el rendimiento antes y después de aplicar la optimización, permitiendo evaluar el impacto de las mejoras propuestas en el sistema de transporte.
+[Independet Q-learning](src/Q-learning/) is implemented using the data processed by [RoBERTa](src/RoBERTa/). A reward function was designed to assess performance before and after optimization, thereby enabling the evaluation of the impact of proposed improvements within the transport system.
 
 ## [GraphSAGE](src/GraphSAGE/)
 
-Modelo basado en grafos para analizar la opinión de los pasajeros, donde cada nodo representa opiniones individuales. Combinando los datos y las mejoras obtenidas con [Q-learning](src/Q-learning/), [GraphSAGE](src/GraphSAGE/) predice y analiza los comentarios futuros, ayudando a identificar patrones y oportunidades de optimización adicionales.
-
+A graph-based model designed to analyze passenger opinions, where each node represents an individual opinion. By integrating the data and improvements obtained through [Independet Q-learning](src/Q-learning/), [GraphSAGE](src/GraphSAGE/) predicts and analyzes future comments, facilitating the identification of patterns and additional opportunities for optimization.
