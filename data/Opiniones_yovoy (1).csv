@@ -1,0 +1,504 @@
+comentario,Sentimiento,Confianza,Categoria
+Tardan mucho en pasar y cuando pasan ya vienen llenos ,Negativo,0.9995916485786438,Neutral
+No use autobús ,Negativo,0.9995230436325073,Neutral
+No me gusta que se tarda en pasar,Negativo,0.999840259552002,Neutral
+El camion llega siempre tarde,Negativo,0.9997686743736267,Tiempo
+"No me gusta que en los nuevos camiones las sillas estén pegadas a las paredes, siento que era mejor cuando estaban en dos columnas.",Negativo,0.9996269941329956,Neutral
+El autobús se tarda mucho y las condiciones de los camiones son pésimas ,Negativo,0.9996899366378784,Neutral
+Bien,Positivo,0.9996585845947266,Neutral
+"Tarda mucho en pasar la ruta 48 esta uno en la parada del camión entre 20 y 30 mnts en espera, y el transcurso es lento ya que hace demasiadas paradas.",Negativo,0.9976372718811035,Tiempo
+"Muy mala, por lo regular siempre está llenísimo o no se detienen ",Neutro,0.8937567472457886,Neutral
+Neutral ,Neutro,0.9941381216049194,Neutral
+Mala,Negativo,0.9994242191314697,Neutral
+Fue buena ,Positivo,0.9998613595962524,Neutral
+5 de 10,Neutro,0.9963145852088928,Neutral
+No me gusta que los choferes suban tanta gente cuando ya no caben más ,Negativo,0.9994981288909912,Chofer
+Horrible,Negativo,0.9995473027229309,Neutral
+no me gusta que tardan mil horas en responder pasar y que aveces aun que va vacio no se para ,Negativo,0.9997971653938293,Neutral
+Todo bien,Positivo,0.9998935461044312,Neutral
+Tardan mucho,Negativo,0.9996507167816162,Neutral
+El espacio es pequeño,Negativo,0.9993301630020142,Comodidad
+Me gusta el servicio ,Positivo,0.999804675579071,Neutral
+No me gusto la espera y lo que me gustó fue que me dormí ,Neutro,0.9968051910400391,Tiempo
+Nunca pasa puntual,Negativo,0.9976092576980591,Tiempo
+Si me gusto,Positivo,0.9998478889465332,Neutral
+Que se tarda en pasar ,Negativo,0.9998102784156799,Neutral
+Fue buena,Positivo,0.9998950958251953,Neutral
+Es constante su pasó ,Positivo,0.9998501539230347,Neutral
+Es barato ,Positivo,0.9995877146720886,Neutral
+Es rápida la ruta ,Positivo,0.9995507597923279,Neutral
+Mi opinión es que se tardan demasiado haciéndole creer al usuario que brindan un buen servicio cuando no lo es,Negativo,0.9995505213737488,Neutral
+Pesima super lleno e iba muy rápido ,Negativo,0.9992389678955078,Comodidad
+Demasiada gente,Negativo,0.9996376037597656,Neutral
+Me gustó que ya hay más flujo de rutas,Positivo,0.9997490048408508,Neutral
+Los espacios son muy reducidos y el camión tarda mucho en pasar,Negativo,0.9997614026069641,Neutral
+"Lo que no me gusta es que ya no acepten efectivo si no pura tarjeta, seria bueno que aceptaran ambas maneras",Negativo,0.9998326301574707,Neutral
+Todo muy bien solo los asientos suelen ser incómodos sobre todo cuando pasas por baches ,Neutro,0.9996258020401001,Neutral
+Que se tarda un montón en pasar ,Negativo,0.9997413754463196,Neutral
+Lo tardado lo lleno que va ,Negativo,0.9998039603233337,"Tiempo, Comodidad"
+El tiempo de espera es muy largo. ,Negativo,0.9971036314964294,Tiempo
+Algo bien ,Positivo,0.9986677169799805,Neutral
+Regular tenía bastante gente ,Neutro,0.9952483773231506,Neutral
+No es muy cómoda en algunos horarios ,Negativo,0.9961532950401306,Neutral
+Hay muy pocas unidades y tardan un tiempo exagerado en pasar ,Negativo,0.999634861946106,Tiempo
+"No tomé el bus, vivo en otro pais ",Negativo,0.9511237144470215,Neutral
+Fue agobiante ,Negativo,0.9958739876747131,Neutral
+Horrible,Negativo,0.9995473027229309,Neutral
+Bien,Positivo,0.9996585845947266,Neutral
+Normal,Neutro,0.9950630068778992,Neutral
+Mucha gente ,Neutro,0.7851932644844055,Neutral
+Buena ,Positivo,0.9997941851615906,Neutral
+Hay buenos culos y buenas carnes,Positivo,0.9993438124656677,Neutral
+El chofer iba de mala gana,Negativo,0.9997350573539734,Chofer
+No me gusta que tarda mucho para pasar y me gusta que es practico en costo ,Neutro,0.9964728951454163,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+No esperé mucho. El conductor iba con una actitud grosera.,Neutro,0.9981464147567749,Chofer
+Me gusta mucho ,Positivo,0.9982545971870422,Neutral
+No me gustó que los choferes son muy bruscos al conducir,Negativo,0.9998089671134949,Chofer
+La tardanza ,Negativo,0.9984951019287109,Tiempo
+No me gusta que tardan mucho en pasar ,Negativo,0.9989626407623291,Neutral
+Suele pasar muy seguido ,Positivo,0.9998880624771118,Neutral
+Esta sucio y se tarda,Negativo,0.9998090863227844,Estado
+culera,Negativo,0.9994935989379883,Neutral
+"Me gusta pasear en camión porque vas escuchando música y lo que no, esque cuando son las 6 de la tarde salen todo los trabajadores oliendo a puro pasuco y luego más de adrene abren el brazo para que los pelos del sobaco nos hagan cosquillas, yo opino que ahí que hacer un sindicato para que apartir de las 6 ya no se suban los trabajadores, porque apestan todo el camión ",Neutro,0.9994514584541321,Tiempo
+"Normal, me gustó ",Positivo,0.9903864860534668,Neutral
+"No me gusta que hablen mucho, me gusta cuando ponen música ",Neutro,0.9946545362472534,Neutral
+"Lo que me gusto es que puede llevarte a los destinos sin pagar tanto a comparacipn de un taxi o las aplicaciones de viajes como didi y uber. Lo que no me gusta esque los asientos pueden ser incomodos y la falta de ingiene, y tarda mucho tiempo en llegar a el destino.",Neutro,0.9989559650421143,Tiempo
+Mucha gente ,Neutro,0.7851932644844055,Neutral
+"muy buena en su mayoria sin embargo algo que no me agrada es que es muy comun encontrarte 2 o mas camiones uno detras de otro, peleando por subir gente",Neutro,0.9993051290512085,Neutral
+"me gusta que va rápido, no me gusta que a veces no pasa cuando tiene que pasar",Neutro,0.9968982934951782,Neutral
+Me gusto que hay mucho espacio y su mantenimiento constante y lo que no me gusta es que suele ser repetitivo en las rutas,Neutro,0.9984326958656311,Comodidad
+Pues pasó a una hora aún temprano y no se detuvo así que hoy  y toda la semana que me ha hecho lo mismo pésimo. ,Negativo,0.9995037317276001,Tiempo
+"Lo que no me gusta es que algunos conductores manejan muy feo, me refiero a muy rápido y hacen que uno rebote en los asientos, lo bueno es que algunos conductores ponen musica y eso lo hace mas ameno, ademas de que son buenos conductores que manejan con precaución eso es algo que se agradece.",Neutro,0.9980100989341736,Chofer
+Bien,Positivo,0.9996585845947266,Neutral
+Mala ,Negativo,0.9989247918128967,Neutral
+Q no pasa tan seguido,Negativo,0.9988414645195007,Neutral
+"Todo bien, bien servicio ",Positivo,0.9998965263366699,Neutral
+Casi nunca funciona el lector de tarjetas ,Negativo,0.9995161294937134,Neutral
+Me gusta que hay internet gratuito y que la ruta pasa muy seguido,Positivo,0.9990636706352234,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+Son muy tardo tomar el camión. No hay muchos camiones de esa ruta,Negativo,0.9980613589286804,Neutral
+"Siempre está muy lleno, aveces tarda en pasar ",Negativo,0.9995325803756714,Comodidad
+Bien la ruta 50 pasa frecuentemente.,Positivo,0.9997407793998718,Neutral
+"Fué buena dentro de lo que cabe, la mayoría de las veces los conductores suelen ser amables aunque suele ser incómodo debido a que al estar lleno el camión siguen subiendo gente ",Neutro,0.9996180534362793,"Chofer, Comodidad"
+Buena ,Positivo,0.9997941851615906,Neutral
+"Todo bien, alcance a cerrar los ojos unos minutitos... solo que una persona olía mal ",Neutro,0.9997474551200867,Neutral
+Tarda mucho en pasar,Negativo,0.9996825456619263,Neutral
+"La 20 comúnmente al horario que la tomo no trae mucha gente, entonces el viaje es más a gusto. ",Positivo,0.9997772574424744,Neutral
+"No me gusta que siempre vayan llenos en la mañana y que salgan tarde de la terminal, también que los asientos estén de lado, ",Negativo,0.9257681965827942,Tiempo
+Todo estuvo bien ,Positivo,0.9999010562896729,Neutral
+Es muy tardado siempre para pasar y los domingos no es tan común que pase,Negativo,0.9944518208503723,Tiempo
+La espera,Negativo,0.9998481273651123,Tiempo
+Pasan seguido pero se llenan mucho en horas pico,Neutro,0.9991230368614197,Tiempo
+"Tardan mucho en pasar, les haces la parada y no te hacen caso, algunos conductores fuman y eso es molesto",Negativo,0.9992747902870178,Chofer
+Bien ,Positivo,0.998543381690979,Neutral
+Muy tardado y poco humano el servicio dado (el conductor apenas y dirige la palabra),Negativo,0.9987955093383789,"Chofer, Tiempo"
+"Mal, llega muy tarde a las paradas",Negativo,0.9997001886367798,Tiempo
+Pues me parece perfecto solo que se montona mucha gente ,Positivo,0.9917089343070984,Neutral
+Se satura mucho (muy lleno). Además de ser muy tardado el tiempo de espera.,Negativo,0.9994857311248779,"Tiempo, Comodidad"
+"Tienen buen internet, pero pide todos tus datos, y no me gusta que vaya rapido",Neutro,0.9995867609977722,Neutral
+Sé tarda mucho en pasar ,Negativo,0.9997299313545227,Neutral
+"Los asientos son de lo peor, por qué al estar en línea no se puede uno ni detener cuando dan un frenon los conductores tanto sentado pero cuando uno está parado, los niños tampoco pueden detenerse o agarrarse de algo como antes cuando los asientos estaban de dos en dos, y si te quedas sin saldo en la tarjeta ahí tienes que andar pidiendo prestado la tarjeta por qué son inflexibles en el pago",Negativo,0.9434530138969421,Chofer
+"me gusta que los choferes son buena onda, pero se llenan extremadamente mucho y no está cómodo eso",Neutro,0.9997114539146423,"Chofer, Comodidad"
+El tiempo de esperar y cuánto puede tardar en pasar,Negativo,0.9995198249816895,Tiempo
+Tarda mucho,Negativo,0.9995880722999573,Neutral
+"No me gusta que se tarda, que los camiones son muy pequeños y ni parados se puede. No me gusta no poder ver mi saldo de la tarjeta",Negativo,0.9995675683021545,Neutral
+"Es una ruta que rodea demasiado, esto provoca que el camión se llene demasiado y se vuelva mas tardado.",Neutro,0.9988210797309875,Tiempo
+"La ruta tarda demasiado en salir, uno tiene que esperar mínimo 1 hora al momento que va a tomar ese camión-",Negativo,0.9995409250259399,Tiempo
+"El estado de los autobuses deja mucho que desear, estaría súper que les dieran mantenimiento y mejorarán la limpieza de ellos.",Negativo,0.9997934699058533,Neutral
+Que algunas veces sube más del cupo limite que se debería,Negativo,0.9982874989509583,Neutral
+La ruta tarda mucho en llegar y no sigue horarios de paso.,Negativo,0.9997150301933289,Neutral
+"Es difícil subir ya que casi va lleno a esa hora, y en ocasiones pasan hasta 3 qué no se paran por lo mismo",Negativo,0.9991469383239746,"Tiempo, Comodidad"
+Pasó muy tarde ,Negativo,0.9985275268554688,Tiempo
+"Me gustó, muy moderno",Positivo,0.9998931884765625,Neutral
+Es más espacioso,Positivo,0.998813271522522,Neutral
+Algunos asientos estaban rotos,Negativo,0.9992966651916504,Neutral
+El conductor iba muy rápido.,Positivo,0.7796590328216553,Chofer
+Me gustó mucho que resalta más que otros camiones.,Positivo,0.9992995262145996,Neutral
+Se tarda mucho el camión.,Negativo,0.9997285008430481,Neutral
+"No me gustó porque estaba lleno y con este caloron, es muy incómodo ",Negativo,0.9994719624519348,Comodidad
+"Me encantó, pasan muy seguido a comparación de otros ",Positivo,0.9998675584793091,Neutral
+Está lleno,Negativo,0.9996985197067261,Comodidad
+Exceso de pasajeros. ,Neutro,0.593172550201416,Neutral
+"La forma de los asientos, que se suban por atrás, que no te dejen bajar, que se tarde la ruta, que el Internet no sirba",Negativo,0.999556839466095,Tiempo
+La espera se tradan mucho ,Negativo,0.9997144341468811,Tiempo
+frenan muy derrepente ,Negativo,0.9994020462036133,Neutral
+"No utilizo el autobús, pero el tiempo ",Neutro,0.9997453093528748,Tiempo
+Lo que no me gustó es que siempre va muy lleno el camión ,Negativo,0.9991239905357361,Comodidad
+"Me gusta que la ruta es algo rápida, no me gusta que se llene en casa horario que pasa",Neutro,0.9973058700561523,Neutral
+Pos normal,Neutro,0.9904048442840576,Neutral
+Asientos en mal estado,Negativo,0.9996474981307983,Estado
+Me gusta que se paga con tarjeta pero me disgusta que se retrase siempre ,Neutro,0.9989696741104126,Neutral
+Es cómodo aunque requiere de mejor ventilación,Neutro,0.9996312856674194,Comodidad
+Tarda demasiado el camión y hay incertidumbre en saber cuando va a pasar.,Negativo,0.9997938275337219,Neutral
+Bien ,Positivo,0.998543381690979,Neutral
+Fue rapido,Positivo,0.9982320666313171,Neutral
+Los horarios son fijos por temporadas ,Negativo,0.9986312985420227,Neutral
+Iba demasiado lleno y llegó el punto en el ya ni hacía parada para subir. ,Negativo,0.9996724128723145,Comodidad
+No me gusta esperar demasiado ,Negativo,0.9996918439865112,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+ME SIENTO DISGUSTO POR QUE DEMORA  MUCHO EL CAMION,Negativo,0.9990298748016357,Tiempo
+Que suben mucha gente cuando ya no caben ,Negativo,0.9996899366378784,Neutral
+Tarda mucho en pasar la  ruta pero es rapida,Neutro,0.999221682548523,Neutral
+"hoy en especifico fue mala ya que se tardo más de 15 min en pasar posteriormente paso la ruta llena, después pasaron dos rutas semivacias y así conseguí lugar  ",Neutro,0.9993645548820496,Neutral
+Frenadas muy bruscas ,Negativo,0.9991303086280823,Neutral
+"Camiones muy chicos, se llenan pronto y además tardan mucho en el trayecto y en llegar a cada parada ",Negativo,0.9971691966056824,Neutral
+Demaciado llena ,Negativo,0.9997268319129944,Neutral
+Tardan muchisimo ,Negativo,0.9993795156478882,Neutral
+El camión está muy lleno en el mañana. ,Negativo,0.9996802806854248,Comodidad
+Obvio a nadie le gusta agarrar camión ,Negativo,0.9981229901313782,Neutral
+No me gusta que se tarde hasta una hora en pasar,Negativo,0.9997857213020325,Tiempo
+"En general me disgusta su servicio, el tiempo que demora y la calidad de las unidades ",Negativo,0.9991729855537415,Tiempo
+siempre va lleno el camión ,Negativo,0.9995924830436707,Comodidad
+Adecuada,Negativo,0.9990977048873901,Neutral
+Las condiciones de las unidades,Negativo,0.971566379070282,Neutral
+Huele mal ,Negativo,0.9991094470024109,Neutral
+"ME GUSTA QUE LA DISTANCIA QUE TIENE LA RUTA ES BASTANTE LARGA Y TE PUEDE LLEVAR A CUALQUIER PARTE DENTRO DE 3ER ANILLO, PERO ES DESAGRADABLE EL ECHO DE LA MISMA DISTANCIA, SIEMPRE VIENE MUY LLENA POR LAS MAÑANAS, ENTONCES... SERIA BUENA IDEA INGRESAR MAS CAMIONES DE LA RUTA",Neutro,0.9996668100357056,Neutral
+"Tarda mucho y cuando llega, viene lleno ",Negativo,0.9997081160545349,Comodidad
+El servicio es horrible,Negativo,0.9991217255592346,Neutral
+NO ME GUSTA QUE LOS CAMIONES ESTEN SUCIOS Y NO LES DEN MANTENIMIENTO,Negativo,0.9996218681335449,Neutral
+no me gusta que me de el sol jaja,Negativo,0.9941262006759644,Neutral
+Tarda mucho tiempo en pasar ,Negativo,0.9992707371711731,Tiempo
+El servicio es muy malo y muy lento ,Negativo,0.9985879063606262,Neutral
+El chófer muy amable,Positivo,0.9998974800109863,Chofer
+"Es bueno, pero siempre pasa lleno ",Neutro,0.9996488094329834,Comodidad
+LOS CHOFER SON GROSEROS,Negativo,0.9995300769805908,Chofer
+No me gusto,Negativo,0.9997547268867493,Neutral
+"Tarda en pasar y va siempre lleno, están sucias las unidades ",Negativo,0.9994800686836243,Comodidad
+"tarda mucho en pasar , va muy llena y esta sucia",Negativo,0.9997573494911194,Neutral
+Hoy el chófer no se detuvo a levantar gente en la parada de la 45 y 3er anillo.,Negativo,0.9997633099555969,Chofer
+Es la única ruta que pasa por mi casa y siempre va llena ,Negativo,0.9978506565093994,Neutral
+Hace mucho calor y no están tan ventilados,Negativo,0.9997918009757996,Neutral
+tarda mucho tiempo en pasar la ruta ,Negativo,0.9979760050773621,Tiempo
+"No me gusta que los asientos están alrededor del camión, es más complicado el trayecto, ya que el 3er anillo está muy deteriorado en algunas partes",Neutro,0.8302220106124878,Neutral
+Se tardo demasiado en pasar y había demasiada gente cuando me subí y luego te empujan porque el chófer sube a más personas cuando todos parecemos unas sardinas.,Negativo,0.9998040795326233,Chofer
+Excelente servicio,Positivo,0.999901294708252,Neutral
+"No me gusta que está muy lleno, no se dan abasto ",Negativo,0.9997742772102356,Comodidad
+"Siempre va muy llena, no pasa tan seguido como la 40",Negativo,0.9997268319129944,Neutral
+"Fue buena porque había pocos pasajeros al ser festivo, me gusto que iba poca gente.",Positivo,0.9991596937179565,Neutral
+"Mala, el primer camión no se paró porque venía otro atrás que hizo que estuviera demasiado lleno y por lo tanto más lento",Negativo,0.9997739195823669,Comodidad
+Buena,Positivo,0.9998786449432373,Neutral
+Es buena,Positivo,0.9998900890350342,Neutral
+El tiempo de espera suele ser bastante extenso.,Negativo,0.886393666267395,Tiempo
+"Mala, Demasiadas personas ",Negativo,0.9993033409118652,Neutral
+Mucha gente y tarda bastante ,Negativo,0.9996838569641113,Neutral
+No me gusta,Negativo,0.9997896552085876,Neutral
+Bien estuvo medio vasio ,Positivo,0.9992081522941589,Neutral
+No uso el camión ,Negativo,0.9969913959503174,Neutral
+No me gustó en general,Negativo,0.9997908473014832,Neutral
+Regular ,Neutro,0.9955267310142517,Neutral
+tarda demasiado en pasar ,Negativo,0.9996541738510132,Neutral
+"Se tardó demasiado en pasar, pero el viaje estuvo bien",Neutro,0.9997871518135071,Neutral
+Normal,Neutro,0.9950630068778992,Neutral
+"Nada, me lleva de lugar a lugar",Neutro,0.6143684983253479,Neutral
+No me gustó venía mucha gente y el chofer aún subía ,Negativo,0.999401330947876,Chofer
+Mala,Negativo,0.9994242191314697,Neutral
+Es el que uso para ir al centro,Positivo,0.9039354920387268,Neutral
+Me gustaría que hubiera mas camiones y que se pueda pagar tanto en efectivo como pago electrónico ,Neutro,0.979015588760376,Neutral
+No me tocó asiento ,Negativo,0.9980080723762512,Comodidad
+Me disgusta mucho el tiempo de espera es excesivo son 45 minutos por cada ruta,Negativo,0.9996809959411621,Tiempo
+Tarda mucho en pasar,Negativo,0.9996825456619263,Neutral
+No me gustó ya que no respetan el número de persona que pueden subir ,Negativo,0.9996798038482666,Neutral
+Que se tarda mucho y va muy llena,Negativo,0.9998257756233215,Neutral
+Si ,Neutro,0.6339966654777527,Sin palabras
+No llego a tiempo el camion,Negativo,0.9974141120910645,Tiempo
+Que iba a su velocidad correspondiente y pude llegar a tiempo a la universidad ,Negativo,0.9986059069633484,Tiempo
+No me gusta los horarios del camión.   Y que. Tardan mucho  y pasan muy llenos ,Negativo,0.7864207625389099,Neutral
+"Mm por lo regular me gustaría que fuera más futurista incluso estoy haciendo un proyecto, sobre cómo cambiar las tarjetas físicas a digitales ya que yo manejo Wallet de IOS y todo se maneja por dijital ",Neutro,0.9989849925041199,Chofer
+Mala,Negativo,0.9994242191314697,Neutral
+me gustó ,Positivo,0.9992951154708862,Neutral
+Ningun problema ,Positivo,0.9118924140930176,Neutral
+Aveces tarda mucho y va muy llena,Negativo,0.9997197985649109,Neutral
+Bien chido ,Positivo,0.9998619556427002,Neutral
+Me gustó ,Positivo,0.9995715022087097,Neutral
+Es muy repetuoso el amviente ,Neutro,0.6664246320724487,Neutral
+Se tardó ,Negativo,0.9986773133277893,Neutral
+Muy lleno desde que me subí,Negativo,0.9995193481445312,Comodidad
+Que no me gusta cuando se llena de gente por qué no hay donde colocarse y te pisan o te avientan,Negativo,0.9983602166175842,Neutral
+"No me gustó, iba todo sucio",Negativo,0.9987118244171143,Estado
+"Fue una experiencia normal, ocasionalmente me pasan cosas desagradables o incómodas en está ruta, pero el día de hoy todo muy neutro.",Neutro,0.9996047616004944,Neutral
+"Me gustó mucho, muy moderno ",Positivo,0.9998459815979004,Neutral
+"Decente, no hubo problemas de espacio ",Positivo,0.9990546107292175,Comodidad
+Tarda mucho en pasar,Negativo,0.9996825456619263,Neutral
+Bastante llena y tarda muchísimo en pasar,Negativo,0.9997746348381042,Neutral
+Qué no hay suficientes autobuses ,Negativo,0.9995751976966858,Neutral
+Demasiado lleno,Negativo,0.9997841715812683,Comodidad
+Muy bien pero tarda mucho en pasar ,Neutro,0.9995906949043274,Neutral
+Tarda mucho en pasar,Negativo,0.9996825456619263,Neutral
+Estuvo un parte del tiempo vacía y no se llenó mucho ,Negativo,0.9961057305335999,Tiempo
+Me gusto,Positivo,0.9996954202651978,Neutral
+Todo,Positivo,0.9981107711791992,Neutral
+No pasa rápido ,Negativo,0.999588668346405,Neutral
+El tiempo en lo que tarda ,Negativo,0.9992269277572632,Tiempo
+"Tardó un poco en pasar y se llena bastante, no hay lugares para todos",Negativo,0.9997809529304504,Neutral
+"Mucha gente, retrasada, calor…",Negativo,0.997610330581665,Neutral
+Opino que es deficiente como servicio público ,Negativo,0.9989088773727417,Neutral
+No se paran ,Negativo,0.9997852444648743,Neutral
+Me gusto,Positivo,0.9996954202651978,Neutral
+"Me gusta que me lleva a mi destino, no me gusta que que está muy llena y que son pocas unidades",Neutro,0.9960920214653015,Neutral
+Demasiados  usuarios  sobrepasa a la capacidad de pasajeros ,Negativo,0.9899521470069885,Neutral
+El tiempo de espera y la gente,Negativo,0.999213695526123,Tiempo
+Se ve que están mas chidos ,Neutro,0.9848885536193848,Neutral
+Es un transporte que viene con demasiada gente y viene muy llena ,Negativo,0.9996504783630371,Neutral
+Pues han mejorado un poco sus condiciones pero aún les falta en cuestión al precio ,Neutro,0.9994080066680908,Neutral
+Q no alcanzo a sostenerme xq estoy chaparrita y aveces m toca estar parada,Negativo,0.9994505047798157,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+Siempre se tarda mucho en pasar tanto de venida como de regreso,Negativo,0.9996457099914551,Neutral
+"que esta lleno, no hay lugar y manejan muy rapidp",Negativo,0.9987602233886719,Comodidad
+"Bien, poco incomodo cuando no hay espacio ni para recorrerse ",Neutro,0.9985466599464417,Comodidad
+Es excesivo el número de pasajeros de pie,Negativo,0.9994086027145386,Neutral
+Me gustó limpieza y profesionalismo del operador. No me agradan los lapsos del servicio ,Neutro,0.9949030876159668,Neutral
+Sofocante por el calor,Negativo,0.999239444732666,Neutral
+Es regularmente bueno pero no hay asientos suficientes para la demás gente además de qué no hay asientos para gente discapacitada en todos los transportes ,Neutro,0.9992449283599854,Neutral
+Muy saturada ,Negativo,0.9996991157531738,Neutral
+PS es un poco tardada y se encierra mucho el calor,Negativo,0.9988698363304138,Neutral
+Más o menos,Neutro,0.9992203712463379,Neutral
+todo bien solo que aveces viene lleno,Neutro,0.999028205871582,Comodidad
+No me gusta el tiempo de espera es muy alto ,Negativo,0.9993085861206055,Tiempo
+Se llena demasiado ,Negativo,0.9995817542076111,Neutral
+La distancia para salir a tomar la ruta es larga ,Negativo,0.9988201260566711,Neutral
+Se tarda demasiado el camión inclusive a veces ni pasa ,Negativo,0.9996812343597412,Neutral
+Mal,Negativo,0.9945299029350281,Neutral
+Es muy tardado y mucha de las veces no llegamos a tiempo como lo contemplamos ,Negativo,0.9929591417312622,Tiempo
+"Recorrido por lo general rápido, las llegadas o parada la espera es larga, el calor es sofocante, el sol muy intenso, asientos calientes al igual q los pasamanos ",Neutro,0.9995482563972473,Tiempo
+"No, se tarda mucho en venir ",Negativo,0.9995298385620117,Neutral
+Normal ,Neutro,0.9957177042961121,Neutral
+…,Neutro,0.9959195852279663,Sin palabras
+No me gusta que no son precavidos al manejar ,Negativo,0.9990624785423279,Neutral
+Muy bien la música ,Positivo,0.9998078942298889,Neutral
+Bien,Positivo,0.9996585845947266,Neutral
+Bien ,Positivo,0.998543381690979,Neutral
+Execelente ,Positivo,0.9998658895492554,Neutral
+No tomo autobús ,Negativo,0.9266303777694702,Neutral
+Me gusto,Positivo,0.9996954202651978,Neutral
+Paso bien,Positivo,0.9998915195465088,Neutral
+Excelente ,Positivo,0.9998230338096619,Neutral
+Un poco sucios ,Negativo,0.8591358661651611,Neutral
+Se tarda mucho el camión.,Negativo,0.9997285008430481,Neutral
+No tomo autobús ,Negativo,0.9266303777694702,Neutral
+Uso trasporte privado para llegar ,Positivo,0.8572672009468079,Neutral
+Me gusta ,Positivo,0.9995439648628235,Neutral
+Es tardado,Negativo,0.9992371797561646,Tiempo
+"Me gustó mucho el viaje, estás bien equipados ",Positivo,0.9998668432235718,Neutral
+No lo uso. ,Neutro,0.9593102335929871,Neutral
+No estaba tan lleno y fue rápido,Negativo,0.9995880722999573,Comodidad
+el chofer no subió más gente de  la permitida y no manejo mal y mala por la calidad de gente que venía gente inrrespetuosa ,Negativo,0.9993218183517456,Chofer
+Es deficiente,Negativo,0.9978640675544739,Neutral
+Masomenos ,Neutro,0.9908387064933777,Neutral
+No uso ,Negativo,0.9942453503608704,Neutral
+Pues no puede agarrar por qué estaba llenas y tuvimos que pedir Uber ,Negativo,0.9996522665023804,Neutral
+Masomenos me gustó ,Positivo,0.9995490908622742,Neutral
+no me gustó,Neutro,0.8595896363258362,Neutral
+Tardan mucho en pasar y cuando pasan ya vienen llenos ,Negativo,0.9995916485786438,Neutral
+"Uso dos camiones, es buena pero a veces llego tarde porque el camión pasa o muy lleno o sale tarde ",Neutro,0.9996381998062134,"Tiempo, Comodidad"
+"me pisó una señora, el camión casi choca, pero lo bueno que ya pasan más rápido ",Neutro,0.9997934699058533,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+No me gustó para nada,Negativo,0.9997833371162415,Neutral
+me gustó que ya no se llena tanto como antes,Positivo,0.9989509582519531,Neutral
+Paso muy tarde ,Negativo,0.9988276362419128,Tiempo
+Pasó más de una hora para que pasara un camión ,Negativo,0.9945804476737976,Tiempo
+Todas las 34 siempre van bien llenas,Negativo,0.9826499223709106,Neutral
+Me encantó que fuera muy moderno y muy amplio ,Positivo,0.9997757077217102,Neutral
+Esta muy viejo el camión ,Negativo,0.9995405673980713,Neutral
+Mala ,Negativo,0.9989247918128967,Neutral
+Hoy fue un día tranquilo en el autobús ,Positivo,0.9998407363891602,Neutral
+Mucha gente,Neutro,0.5191750526428223,Neutral
+Muy lleno y se tardó mucho ,Negativo,0.9988638162612915,Comodidad
+"pues fue regular, ya que iba algo llena",Neutro,0.9996102452278137,Neutral
+había mucha gente en el camión y se tardo mucho ,Negativo,0.999768078327179,Neutral
+Se tarda un poco ,Negativo,0.9997580647468567,Neutral
+Hoy no la tome pero normalmente me regañan por no tener tarjeta y aveces ni me quieren subir,Neutro,0.9936720132827759,Neutral
+"no me gustó, se llena demasiado, y tarda en pasar.",Negativo,0.9997746348381042,Neutral
+Tarda una hora en pasar y cuando pasa mayormente va llena,Negativo,0.9997203946113586,Tiempo
+Tardan mucho ,Negativo,0.9967873096466064,Neutral
+"Que últimamente no pasan rutas tan seguidas y que no se paran donde es la parada pasan hasta dos cuadras de mi destino, que es muy constante ",Negativo,0.7271103858947754,Neutral
+Muy bien ,Positivo,0.9997958540916443,Neutral
+Buena,Positivo,0.9998786449432373,Neutral
+"no lo tome, pero normalmente cuando lo tomo es normal mi viaje, nada anormal solo personas que van a trabajo.",Neutro,0.999687671661377,Neutral
+"Me gusta cuando el camión no va tan lleno, pero no me gusta cuando las personas van agarradas de la puerta ",Neutro,0.9993610978126526,Comodidad
+El servicio está bien pero e encontrado autobuses con daños pero después de eso está todo bien ,Neutro,0.9996764659881592,Neutral
+"No me gusta, siempre está muy lleno ",Negativo,0.9860068559646606,Comodidad
+"Muy mal vastante empujadera, poco espacio, el chófer aveces no nos baja en la parada",Negativo,0.9996660947799683,"Chofer, Comodidad"
+"Algunas actitudes de los choferes es desagradable,y que hace mucho calor y llevan ventanas cerradas ",Negativo,0.951644241809845,"Chofer, Comodidad"
+Pues siempre va super lleno ,Negativo,0.9984001517295837,Comodidad
+Traigo carro pobre de los q no traen ,Negativo,0.9996738433837891,Neutral
+no me gusta que tarda más de una hora en pasar y siempre va súper llena ,Negativo,0.9995835423469543,Tiempo
+No ,Neutro,0.9641200304031372,Sin palabras
+"Me gustó que fue rápida y no me gustó que tardó mucho tiempo en pasar, casi no hay camiones de la 19 o 24 ",Neutro,0.9970023036003113,Tiempo
+"No me gustó que no funcionaba el aparato que cobra las tarjetas, el camión tardó aproximadamente 10 minutos en salir y llegué tarde porque todavía tenía que tomar otro que de por si, ya va lleno, y generalmente la conducción de los choferes es pesima.",Neutro,0.9975577592849731,"Chofer, Tiempo, Comodidad"
+No pasan rápido ,Negativo,0.9997697472572327,Neutral
+Me gusto ya que iba en la comodidad de que estaba solo el camión ,Positivo,0.9984866380691528,Comodidad
+me gusto,Positivo,0.999525785446167,Neutral
+Pues si me gusto,Positivo,0.9998297691345215,Neutral
+los tiempos son largos,Negativo,0.9997449517250061,Neutral
+pues bueno en algunas ocasiones,Neutro,0.9923237562179565,Neutral
+"Pues fue normal, solo duró 10 minutos en el autobús ",Neutro,0.9631107449531555,Neutral
+"Me da igual, no me gusta el como manejan, y el camión sucio ",Negativo,0.999454915523529,Estado
+"Agusto, lo veia un poco saturado ",Neutro,0.9996688365936279,Neutral
+Hoy no tomé camión pero por lo general cuando lo tomo llega a tardarse mucho y siempre piden tarjeta y no hay muchos lugares donde se pueda recargar y en los pocos lugares aveces no hay sistema.,Negativo,0.9996519088745117,Neutral
+Pues lo que no me gusta que a veces van vacíos y no se parada  y lo que me gusta es que ya están asiendo lo de la tarjeta ,Neutro,0.9973282814025879,Neutral
+"La vdd no me gusta mucho pq algunos chóferes no manejan bien y se llena de gente y tener que ir parada no es cómodo, me gusta que algunos tienen Internet ",Neutro,0.9952623844146729,Comodidad
+"A veces parece que van peleando por tiempos y se pelean por la gente cuando cruzan tiempos, por lo que manejan a exceso de velocidad y ponen en riesgo a la gente abordo",Negativo,0.9997337460517883,Neutral
+"Manejan como locos,cuando lo esperas y haces parada se siguen,huelen un poco mal y a veces el chofer es grosero ",Negativo,0.9995488524436951,Chofer
+No me gusta que luego el timbre no sirve y tengo que gritar BAJAN,Negativo,0.9987785220146179,Neutral
+"No, porque va muy recio y frena muy fuerte ",Negativo,0.9995507597923279,Neutral
+Me gusto,Positivo,0.9996954202651978,Neutral
+No me gusta que pasa después de mucho rato y eh llegado a esperar hasta una hora.,Negativo,0.9996050000190735,Tiempo
+"Un poco incómoda, estaba muy llena la ruta ",Negativo,0.9997590184211731,Neutral
+"Todo bien, bien servicio ",Positivo,0.9998965263366699,Neutral
+No utilizo ,Negativo,0.9396223425865173,Neutral
+Va lleno ,Negativo,0.9997372031211853,Comodidad
+Más o menos ya ue tardo el camión y iba muy lleno,Neutro,0.9991438388824463,Comodidad
+"Que no estuviera tan saturado y me haya tocado asiento, sin embargo me tocan estos beneficios porque vivi al norte y aún no sube mucha gente",Neutro,0.5577492117881775,Comodidad
+Muy bien llegan varias en tiempos cortos aunque aveces pueden tardar ,Neutro,0.9995194673538208,Neutral
+no jalaba el timbre y tuve que andar gritandole al chofer ,Negativo,0.9996678829193115,Chofer
+No me subí hoy pero casi siempre que lo hago es una experiencia tranquila ,Neutro,0.9981573224067688,Neutral
+No me gusta ,Negativo,0.9997492432594299,Neutral
+Esta super padre ur en camión ,Positivo,0.9998719692230225,Neutral
+mala ,Negativo,0.9958602786064148,Neutral
+Me gusto ,Positivo,0.9991387128829956,Neutral
+No tomo autobús ,Negativo,0.9266303777694702,Neutral
+No utilizo autobus,Negativo,0.9997325539588928,Neutral
+"Lo que me gusta que cuesta menos, lo que no me gusta es que tarde",Neutro,0.9982506632804871,Tiempo
+No me gustó me sentía incómoda y no sabía por qué ,Negativo,0.9998143315315247,Neutral
+No tomo el autobús ,Negativo,0.9871843457221985,Neutral
+Se tarda mucho ,Negativo,0.9996116757392883,Neutral
+Ta bien??,Positivo,0.9975715279579163,Neutral
+Buena no venía tanta gente ,Positivo,0.9998158812522888,Neutral
+No me gusta que se llena y siguen subiendo ,Negativo,0.9997627139091492,Neutral
+"Una señora entro fumando e inhalando drogas, nadie le dijo nada fue horrible mientras duró ",Negativo,0.9670064449310303,Neutral
+No xq había mucha jente y se atrasó demasiado ,Negativo,0.9996809959411621,Neutral
+"No me gusta que los hombres sean tan fisgones, el olor. ",Negativo,0.9990940093994141,Estado
+No me gusta como manejan,Negativo,0.999806821346283,Neutral
+Se tarda mucho en pasar y no me gusta,Negativo,0.999760091304779,Neutral
+Que pasa bien lleno ,Negativo,0.9997920393943787,Comodidad
+Pz que se tarda en pasar y que pasa muy lleno ,Negativo,0.9997389912605286,Comodidad
+Bien,Positivo,0.9996585845947266,Neutral
+"Muy bien, nomás que a veces no sirve el timbre",Neutro,0.9997463822364807,Neutral
+Pues está bien ,Positivo,0.9984856247901917,Neutral
+No me gusta que se tarda demasiado ,Negativo,0.9996993541717529,Neutral
+Muy mala demasiada gente ,Negativo,0.9996358156204224,Neutral
+No me gusta que se tarda en pasar y no hace las paradas en donde debe ,Negativo,0.9995879530906677,Neutral
+"Mucha gente en el transporte, especialmente los miércoles en la mañana y me gusta que ni tarde tanto ya que en mis tiempos medios hago de 17 a 22 minutos dependiendo de las personas, conductor, velocidad,paradas y unidad ya que hay 2 o 3 unidades que son muy lentas y otras más rápidas.",Neutro,0.9658659100532532,"Chofer, Tiempo"
+Demasiada gente ,Negativo,0.9987025260925293,Neutral
+Pues estuvo más o menos la 48 en las mañanas va muy llena y aveces no te puedes ni mover con libertad ,Neutro,0.9990065693855286,Neutral
+Ps estuvo rápido llegue temprano ,Positivo,0.9744986295700073,Neutral
+Fueron amables,Positivo,0.9995554089546204,Neutral
+Nunca he andado en camión ,Negativo,0.9940578937530518,Neutral
+No me gusta que haya mucha gente ,Negativo,0.9970470070838928,Neutral
+A veces pasa muy temprano o a veces muy tarde,Neutro,0.9987314343452454,Tiempo
+Tranquila ,Negativo,0.8845199942588806,Neutral
+Lo que no me gusta es de que aveces sale tarde ,Negativo,0.9980868101119995,Tiempo
+El camión iba demasiado lleno y seguía subiendo gente,Negativo,0.9998335838317871,Comodidad
+A veces no llego a tiempo para tomar la ruta,Negativo,0.8141022324562073,Tiempo
+Ps normal,Neutro,0.9952947497367859,Neutral
+La mayoría de las veces es muy feo por qué el chófer frena horrible ,Negativo,0.9993732571601868,Chofer
+Muy mal ,Negativo,0.9987749457359314,Neutral
+"Mala, rebote en hasta el techo del camión ",Negativo,0.9667106866836548,Neutral
+"Pues bien, un poco lleno",Neutro,0.8411451578140259,Comodidad
+"no te tenido alguna mala experiencia, no soy mucho de tomar el autobús ",Neutro,0.9450232982635498,Neutral
+Pagar,Neutro,0.9933567643165588,Neutral
+Estuvo muy tranquilo ,Positivo,0.9998937845230103,Neutral
+Si me gusta pero los camiones ya están muy viejos ,Neutro,0.9994511008262634,Neutral
+Me gustan las músicas que ponen los microbuseros ,Positivo,0.9988595247268677,Neutral
+Bien,Positivo,0.9996585845947266,Neutral
+siempre va lleno,Negativo,0.9997974038124084,Comodidad
+Pues no me gusta cuando se llenan muchos los camiones y estamos apretados,Negativo,0.9997448325157166,Neutral
+Bien,Positivo,0.9996585845947266,Neutral
+Las ventanas no abren ,Negativo,0.9998040795326233,Comodidad
+No me gusta que se tarde mucho y yo tenga que esperar en el sol,Neutro,0.9377549290657043,Tiempo
+Se tardan mucho en pasar,Negativo,0.999790608882904,Neutral
+Tardan demasiado,Negativo,0.999670147895813,Neutral
+Se tarda demasiado ,Negativo,0.9997860789299011,Neutral
+normal,Neutro,0.9959565997123718,Neutral
+que se tardan un buen ,Neutro,0.8196789026260376,Neutral
+Pues ni malo ni bueno,Neutro,0.9949453473091125,Neutral
+"Más que nada es el tiempo, no puedo pedir la gran cosa por $11 pesos, simplemente el horario retrasado, como por ejemplo llegar tarde por culpa de el camión, que siempre se llene y no nos deje subirnos:(",Neutro,0.6848760843276978,Tiempo
+"Es incómodo y la verdad no está para nada agusto, ",Negativo,0.8351502418518066,Comodidad
+"Muy bien, solo que es algo raro que vaya tan atascado ",Neutro,0.9997326731681824,Neutral
+Que es rapido pero se llena mucho desde una hora temprana y de tarde igual ala hora de salida esta mas lleno,Neutro,0.9988186955451965,"Tiempo, Comodidad"
+Bien,Positivo,0.9996585845947266,Neutral
+Bueno pues olía un poco a marihuana pero bueno el chofer es mi amigo ,Neutro,0.9996852874755859,Chofer
+Nuez tatas hiena porte ai mucho Majito y me da meto que me roben,Negativo,0.9946495890617371,Neutral
+Muy lleno,Negativo,0.9997196793556213,Comodidad
+bien ?? ,Neutro,0.7367160320281982,Neutral
+Que pusieron wifi,Negativo,0.9998062252998352,Neutral
+Me gusta cuando va un poco vacío ya que no se siente mucha incomodidad ,Positivo,0.9996169805526733,Neutral
+Esque no uso autobus,Negativo,0.9997286200523376,Neutral
+Pues no es agradable ya que se llena muy rapido y es difícil bajar,Negativo,0.9992988109588623,Neutral
+No opino nada no los uso ,Negativo,0.9674426317214966,Neutral
+Se amontona mucho,Negativo,0.9997853636741638,Neutral
+No uso el bus,Negativo,0.9997716546058655,Neutral
+"Si, me gusta ",Positivo,0.9998284578323364,Neutral
+No lo uso,Negativo,0.9995936751365662,Neutral
+No ay igiene ,Negativo,0.999821126461029,Neutral
+"pues bastante buena, un poco rápida ",Positivo,0.999782383441925,Neutral
+No uso autobúses,Negativo,0.999794065952301,Neutral
+no lo uso,Neutro,0.99332594871521,Neutral
+Si,Neutro,0.39485445618629456,Sin palabras
+Buena ,Positivo,0.9997941851615906,Neutral
+Pues es agradable,Positivo,0.9998785257339478,Neutral
+Se tardó muchísimo ,Negativo,0.9997033476829529,Neutral
+Tarda mucho en pasar,Negativo,0.9996825456619263,Neutral
+Buen servicio ,Positivo,0.9998666048049927,Neutral
+El tiempo de espera no me gusta pero el trato del conductor es muy bueno,Neutro,0.9996310472488403,"Chofer, Tiempo"
+Se tarda mucho en pasar y cuando pasa viene llena,Negativo,0.9996275901794434,Neutral
+pasa cada hora y muy llena y son pocas unidades ,Negativo,0.9997625946998596,Tiempo
+Buena ,Positivo,0.9997941851615906,Neutral
+Todo me gustó,Positivo,0.999893307685852,Neutral
+Pocas veces hago uso del servicio pero cuando lo utilizo el tiempo de espera es muy alto y se llena excesivamente ,Negativo,0.9972634315490723,Tiempo
+Falta de empatia en algunos conductores ,Negativo,0.9928697943687439,Chofer
+No me gusta que se tarden tanto en pasar ,Negativo,0.9992423057556152,Neutral
+Me gustó que fue rápido y eficaz y lo que no me gustó es que aveces tarda en llegar ,Neutro,0.9976536631584167,Neutral
+Mala se tarda mucho y más cuando llega a pósitos en momentos el camionero se queda parado por positos con una acompañante ,Negativo,0.9995067119598389,Neutral
+Pues me gusta porque venía vacío ,Positivo,0.9997696280479431,Neutral
+El bus está feo,Negativo,0.9997608065605164,Neutral
+Que aveces se tarda en pasar y va lleno,Negativo,0.9995598196983337,Comodidad
+Pasa muy lleno y muy tarde,Negativo,0.9997658133506775,"Tiempo, Comodidad"
+"No me gusta que tarde tanto em pasar, hace que llegue tarde a estudiar",Negativo,0.9996578693389893,Tiempo
+"Si me gusta, ya que tiene internet gratis y el timbre funciona bien ",Positivo,0.9998118281364441,Estado
+Es muy lento y normalmente se tarda mucho ,Negativo,0.99718177318573,Neutral
+Pues lo que me gusta es que Lugo va un poco vacío pero a veces va muy llena,Neutro,0.9989842772483826,Neutral
+Me gustó que te dan las buenas tardes ,Positivo,0.9921619296073914,Neutral
+Está muy bien ,Positivo,0.9998481273651123,Neutral
+Ni lo uso,Negativo,0.9997697472572327,Neutral
+Es regularmente buena ,Positivo,0.999864935874939,Neutral
+El autobús iba muy quedito y no podía subir (subidas),Negativo,0.9976720213890076,Neutral
+"Muy buena, el camión venia vacío ",Positivo,0.9998635053634644,Neutral
+Muy lleno,Negativo,0.9997196793556213,Comodidad
+Me quedé muchi tiempo esperando y con este calor ya me estaba decidratando ,Negativo,0.9992050528526306,Tiempo
+Fue rápido y limpio ,Positivo,0.9998960494995117,Estado
+"Malo, todo sucio y viejo ",Negativo,0.9995334148406982,Estado
+No me gustó porque son los camiones de antes y estaba sucio,Negativo,0.9998493194580078,Estado
+"Me gusta, son muy modernos y el chófer se preocupo por nuestra seguridad",Positivo,0.96136075258255,Chofer
+La comodidad ,Neutro,0.5312421917915344,Comodidad
+"Malo, el chófer no se quiso parar ",Negativo,0.9997335076332092,Chofer
+"Me gustó, paso rápido ",Positivo,0.9998853206634521,Neutral
+Son muy lentos y tardan mucho en pasar ,Negativo,0.9996391534805298,Neutral
+"Me encantó, la chófer tuvo precaución con los pasajeros ",Positivo,0.9998278617858887,Chofer
+Tarda mucho en pasar el camión ,Negativo,0.9971674084663391,Neutral
+Pasa muy llena ,Negativo,0.9997761845588684,Neutral
+Muy amables los choferes dan las buenas tardes y muy uniformados ,Negativo,0.9952902793884277,Chofer
+"Horrible, iba todo el camion bien lleno",Negativo,0.9994351267814636,Comodidad
+Las señoras o señoritas que me han tocado siempre muy amables y el transporte muy limpio ,Neutro,0.9925773739814758,Estado
+"Bien, tardo un poco pero de ahi en mas todo bien",Neutro,0.999451220035553,Neutral
+"Tarda mucho en las mañanas, pasa uno cada hora ",Negativo,0.9988049268722534,Tiempo
+"Me encantó, la tomé dos veces y el chófer fue muy amable con todos ",Positivo,0.9997583031654358,Chofer
+Era un autobús muy viejo,Negativo,0.9996968507766724,Neutral
+"Estuvo bien, cómodo y sin ningún problema ",Positivo,0.9998843669891357,Comodidad
+"Me gustó, el chófer fue buena onda en mi ida a la prepa",Positivo,0.9998980760574341,Chofer
+Muy buen servicio por las chicas y educadas siempre dando las buenas tardes.,Positivo,0.981788158416748,Neutral
+"Fue cómodo, sin ningun problema ",Positivo,0.9998835325241089,Comodidad
+"tardó mucho en pasar y en llegar a mi destino, iba muy lento",Negativo,0.9992287158966064,Neutral
+En esa ruta los camiones están los un poco descuidado en las que yo me he subido ,Negativo,0.9988135099411011,Neutral
+"Muy malo, tarda mucho en pasar y el chofer acepta dinero en monedas en vez de la tarjeta ",Negativo,0.9989292025566101,Chofer
+"no me gusto, el chofer nomas dejo salir por la puerta delantera a sus amigos y a los demas no cuando el camión iba lleno",Negativo,0.9970556497573853,"Chofer, Comodidad"
+"Lo camiones muy desgastados , en algun bache se sentía el golpeteo.",Negativo,0.9997631907463074,Neutral
+"bien, el trayecto es algo largo pero estuvo cómodo ",Neutro,0.9994731545448303,Comodidad
+Siempre lleno y a veces no cabemos,Negativo,0.9991025924682617,Comodidad
+Siempre que tomo esa ruta muy temprano va saturada de gente hasta colgando en la puerta y eso no debería pasar.,Positivo,0.935717761516571,Neutral
+"Horrible, el chófer va a exceso de velocidad y frena de repente ",Negativo,0.9955818057060242,Chofer
+"Malo, el camión está todo viejo y se llena muy rápido ",Negativo,0.9997270703315735,Neutral
+Bueno,Positivo,0.9997863173484802,Neutral
+Nada,Negativo,0.9822194576263428,Neutral
+"No me gustó, muy descuidado ",Negativo,0.9992108345031738,Neutral
